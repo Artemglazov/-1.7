@@ -15,6 +15,9 @@ students[2] = 'Johnny'
 students[3] = 'Khendrik'
 students[4] = 'Steve'
 dict_ = {}
-dict_[students[0] ]=[ a] ,[students[1]] =[b] ,[students[2]] = [c],[students[3]] = [d] ,
-[students[4]] =[ e ]
+dict_[students[0] ]= a 
+dict_[students[1]] =b 
+dict_[students[2]] = c
+dict_[students[3]] = d
+dict_[students[4]] = e 
 print(dict_)
